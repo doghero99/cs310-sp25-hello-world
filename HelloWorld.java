@@ -3,7 +3,7 @@
  * @author Aidan Clark
  */
 
-public class HelloWorld {
+ public class HelloWorld {
 
     public static void main(String[] args) {
         Class1 c1 = new Class1();
@@ -13,6 +13,10 @@ public class HelloWorld {
 
     private void f1() {
         // v1.0
+    }
+
+    private void f2() {
+        // v2.0
     }
 
 }
